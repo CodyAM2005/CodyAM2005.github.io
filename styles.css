@@ -1,8 +1,12 @@
 body {
   background: cadetblue;
   font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
 }
 h1 {
+  width: 100%;
+  display: block;
   color: darkslateblue;
   text-align: center;
 }
