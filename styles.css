@@ -30,12 +30,12 @@ a {
  display: block; /* instead of flex */
 }
 .assign img {
- width: 100%;
+ width: 90%;
  margin: 10px;
  border: 2px solid midnightblue;
 }
 .assign img:hover {
- width: 200px;
+ width: 80%;
  margin: 10px;
  border: 2px dotted yellow;
 }
